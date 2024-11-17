@@ -1,0 +1,3 @@
+[submodule "cd12355-python-app"]
+	path = cd12355-python-app
+	url = git@github.com:drlappies/cd12355-python-app.git
